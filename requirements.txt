@@ -1,0 +1,13 @@
+pandas
+numpy
+keras
+tensorflow
+matplotlib
+scikit-learn
+notebook
+seaborn
+scipy
+statsmodels
+streamlit 
+plotly
+shap
